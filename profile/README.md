@@ -1,6 +1,6 @@
 # Health Monitoring System
 
-This GitHub organization hosts the repositories for a **Health Monitoring System** designed for elderly care.
+This GitHub organisation hosts the repositories for a **Health Monitoring System** designed for elderly care.
 
 ## About the Project
 
